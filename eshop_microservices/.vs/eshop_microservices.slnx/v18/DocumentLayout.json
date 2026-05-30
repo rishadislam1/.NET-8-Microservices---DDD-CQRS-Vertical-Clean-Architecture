@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C72FDDF-42B2-4F45-850C-CC8D530367AF}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|d:\\rishad\\.net-8-microservices---ddd-cqrs-vertical-clean-architecture\\eshop_microservices\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C72FDDF-42B2-4F45-850C-CC8D530367AF}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C634B5-30A5-4CD0-BA59-85A12B527968}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\rishad\\.net-8-microservices---ddd-cqrs-vertical-clean-architecture\\eshop_microservices\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C634B5-30A5-4CD0-BA59-85A12B527968}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4C634B5-30A5-4CD0-BA59-85A12B527968}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|d:\\rishad\\.net-8-microservices---ddd-cqrs-vertical-clean-architecture\\eshop_microservices\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C634B5-30A5-4CD0-BA59-85A12B527968}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BuildingBlocks",
+              "DocumentMoniker": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T16:09:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -36,6 +57,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:04:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "D:\\rishad\\.NET-8-Microservices---DDD-CQRS-Vertical-Clean-Architecture\\eshop_microservices\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
